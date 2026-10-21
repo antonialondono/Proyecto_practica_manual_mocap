@@ -1,3 +1,9 @@
+import streamlit as st
+from PIL import Image
+
+
+st.title('Pagina Inicio')
+st.write('
 # Bienvenida
 
 Este manual explica, paso a paso, cómo preparar y operar el sistema de captura de movimiento (OptiTrack Motive) para que cada sesión sea consistente y replicable.
@@ -16,4 +22,4 @@ Este manual explica, paso a paso, cómo preparar y operar el sistema de captura 
 ## ✅ Criterio de calidad
 Una captura es apta para análisis cuando el volumen está correctamente calibrado, los participantes se identifican de forma consistente, el tracking es estable y el Take puede exportarse sin pérdida significativa de información.
 
-Usa el menú de la izquierda para ir a cada paso, o la opción **Preguntar al manual** para buscar algo concreto.
+Usa el menú de la izquierda para ir a cada paso, o la opción **Preguntar al manual** para buscar algo concreto.')
