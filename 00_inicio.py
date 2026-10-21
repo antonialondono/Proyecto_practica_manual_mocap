@@ -3,8 +3,7 @@ from PIL import Image
 
 
 st.title('Pagina Inicio')
-st.write('
-# Bienvenida
+st.write('# Bienvenida
 
 Este manual explica, paso a paso, cómo preparar y operar el sistema de captura de movimiento (OptiTrack Motive) para que cada sesión sea consistente y replicable.
 
